@@ -1,9 +1,6 @@
 [![Header for lewisprescott707](https://github.com/lewisPrescott707/lewisPrescott707/raw/main/images/header.png)](https://www.lewisprescott.co.uk)
 
 <h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Lewis.
-</p>
 
 ### Online courses I made
 - [Introduction to Contract Testing with Pact](https://www.udemy.com/course/introduction-to-contract-testing-with-pact/)
