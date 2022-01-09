@@ -10,10 +10,14 @@
 - [A website for my friend Ovidi](https://www.delaterra.co.uk)
 - [Learning React Native](https://play.google.com/store/apps/details?id=com.covidcarboncalculator)
 
+### Stuff I wrote
+- [Contract Testing in .Net Core](https://medium.com/asos-techblog/pact-testing-in-net-core-6bfc5b0e9131)
+- [Introduction to Contract Testing](https://www.softwaretestinghelp.com/contract-testing/)
+
 ### Want to Read
 - [Why Do So Many Incompetent Men Become Leaders?](https://www.amazon.co.uk/gp/product/B07FQVCX8D/ref=kinw_myk_ro_title)
 
-#### Articles
+#### Articles I Like
 - [Holistic Testing](https://janetgregory.ca/testing-from-a-holistic-point-of-view/?s=09)
 - [Amortizing Software Rewrites](https://www.thoughtworks.com/insights/blog/amortizing-software-rewrites-evolutionary-approach?utm_campaign=Level+Up&utm_medium=email&utm_source=Revue+newsletter#.YIh_EJPurrM.linkedin)
 - [How to break a Monolith into Microservices](https://martinfowler.com/articles/break-monolith-into-microservices.html)
@@ -22,7 +26,7 @@
 - [E2E tests are a scam](https://link.medium.com/ebw2MRLWEfb)
 - [Mutation Testing](https://testing.googleblog.com/2021/04/mutation-testing.html)
 
-#### Books
+#### Books I'm reading
 - [Alice and Bob Learn Application Security](https://www.amazon.co.uk/gp/product/B08L8JX4RD/ref=kinw_myk_ro_title)
 
 ### Want to Watch
