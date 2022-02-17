@@ -1,6 +1,6 @@
-[![Header for lewisprescott707](https://github.com/lewisPrescott707/lewisPrescott707/raw/main/images/header.png)](https://www.lewisprescott.co.uk)
+[![Header for lewisprescott707](https://github.com/lewisPrescott707/lewisPrescott707/raw/main/images/header.png)](https://prescottlewis707.wixsite.com/welcome)
 
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'> Hi! :wave:, I'm the Pactman</h1>
 
 ### Online courses I made
 - [Introduction to Contract Testing with Pact](https://www.udemy.com/course/introduction-to-contract-testing-with-pact/)
