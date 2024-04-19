@@ -1,6 +1,8 @@
-[![Header for lewisprescott707](https://github.com/lewisPrescott707/lewisPrescott707/raw/main/images/header.png)](https://www.pactman.co.uk)
+[![Header for lewisprescott707](https://github.com/lewisPrescott707/lewisPrescott707/raw/main/images/MEAP_Cruz.png)]([https://www.pactman.co.uk](https://shortener.manning.com/v8yJ))
 
 <h1 align='center'> Hi! :wave:, I'm Lewis Pactman Prescott</h1>
+
+<a align='center' href="https://mng.bz/v8yJ"> Please support by buying my book Contract Testing in Action!</a>
 
 ### :books: Online courses I made
 - [Introduction to Contract Testing with Pact](https://www.udemy.com/course/introduction-to-contract-testing-with-pact/)
