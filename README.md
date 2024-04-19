@@ -2,8 +2,6 @@
 
 <h1 align='center'> Hi! :wave:, I'm Lewis Pactman Prescott</h1>
 
-<a align='center' href="https://mng.bz/v8yJ"> Please support by buying my book Contract Testing in Action!</a>
-
 ### :books: Online courses I made
 - [Introduction to Contract Testing with Pact](https://www.udemy.com/course/introduction-to-contract-testing-with-pact/)
 - [JavaScript API Testing](https://testautomationu.applitools.com/javascript-api-testing/)
